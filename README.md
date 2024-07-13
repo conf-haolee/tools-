@@ -6,6 +6,7 @@
 
 ## 01 滚动弹幕
 
-![image-20240713222351737](D:/Coding/01%20tools/scrolling_text/README.assets/image-20240713222351737-17208806339121.png)
+![image](https://github.com/user-attachments/assets/fa663da5-ee81-4735-b6ff-1acff47f1984)
 
-<img src="D:/Coding/01%20tools/scrolling_text/README.assets/QQ%E6%88%AA%E5%9B%BE20240713222114.png" alt="QQ截图20240713222114" style="zoom:50%;" />
+
+![image](https://github.com/user-attachments/assets/6f43cc28-20e9-427c-9289-d58306c1db9c)
